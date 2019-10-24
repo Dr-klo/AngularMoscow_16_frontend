@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.0.1",
-  "description": "frontend",
+  "description": "AngularMoscow #16 frontend",
   "author": "",
   "scripts": {
     "ng": "ng",
